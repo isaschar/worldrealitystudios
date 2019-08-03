@@ -1,0 +1,31 @@
+{
+    "$jason": {
+        "header":{
+            "title":{
+            "type": "image",
+            "url": "https://worldrealitystudios.com/Template/Images/logo.png"
+            }
+        },
+        "background":{
+            "type": "html",
+            "url": "https://worldrealitystudios.com",
+            "action": {
+                "trigger": "navigate"
+            }
+        },
+        "footer":{
+            "tabs": {
+                "items":[{
+                    "image":"https://worldrealitystudios.com/Uploads/Avatars/admin.jpg",
+                    "url": "https://worldrealitystudios.com/"
+                }, {
+                    "image":"https://worldrealitystudios.com/Uploads/Icons/cat-13.png",
+                    "url": "https://worldrealitystudios.com/profile/admin"
+                }, {
+                    "image":"https://worldrealitystudios.com/Uploads/Icons/cat-14.png",
+                    "url": "https://worldrealitystudios.com/videos"
+                }]
+            }
+        }
+    }
+}
